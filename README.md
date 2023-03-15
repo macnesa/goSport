@@ -1,5 +1,6 @@
 # goSport
 Sport's Field Booking App
+(We made this application 2 months after we learned Javascript)
 
 # Overview
 https://gosport.brettkun.xyz
