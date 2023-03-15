@@ -17,5 +17,5 @@ app.use(
 app.use(require("./routes"));
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port}`);
+  console.log(`goSport app listening on port ${port}`);
 });
